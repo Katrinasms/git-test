@@ -1,0 +1,10 @@
+Q1: where PATTERN is what we are looking for?
+A1: Looking for the rospack that containing word "PATTERN"
+
+Q2:  What are the names of the installed package that include the word "smach"
+A2:  They are smach, smach_msgs, smach_ros
+	smach /opt/ros/kinetic/share/smach
+	smach_msgs /opt/ros/kinetic/share/smach_msgs
+	smach_ros /opt/ros/kinetic/share/smach_ros
+
+
